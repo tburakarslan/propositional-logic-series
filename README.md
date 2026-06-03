@@ -2,7 +2,7 @@
 
 This repository contains resource files for the **Propositional Logic** video series.
 
-## Episode 2 — What Is an Argument in Logic?
+## [Episode 2 — What Is an Argument in Logic? | Premises and Conclusions](https://youtu.be/dz8lDrGWvEA)
 
 Resources for Episode 2:
 
