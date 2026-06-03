@@ -6,9 +6,9 @@ This repository contains resource files for the **Propositional Logic** video se
 
 Resources for Episode 2:
 
-* **Formal definitions and notation sheet**
-* **Worksheet without solutions**
-* **Solutions and comments for the worksheet**
+* [Formal definitions and notation sheet](./episode-02/PL_E02_Formal_Definitions_and_Notation.pdf)
+* [Worksheet without solutions](./episode-02/PL_E02_Worksheet.pdf)
+* [Solutions and comments for the worksheet](./episode-02/PL_E02_Worksheet_Solutions.pdf)
 
 Folder:
 
@@ -19,3 +19,5 @@ The examples in these files are mostly mathematical, with some everyday-language
 ## Note
 
 These files are original teaching resources prepared for the Propositional Logic video series. They are intended to support the videos and help viewers practice the basic concepts of formal logic.
+
+GitHub’s PDF preview may not make every link inside the PDF files clickable. For full functionality, download the PDF files and open them with a PDF reader.
